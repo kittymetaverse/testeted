@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x480e246F29964d1AfFD42D3954b9d030cBB0062a",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x480e246f29964d1affd42d3954b9d030cbb0062a",
+  "NETWORK": {
+    "NAME": "Ethereum Rinkeby Testnet",
+    "SYMBOL": "Ethereum",
+    "ID": 4
+  },
+  "NFT_NAME": "blank",
+  "SYMBOL": "blank",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
